@@ -1,8 +1,8 @@
 # 第1次練習題目-練習-PC1
 >
->學號：1234567   (學號和姓名都要寫)
+>學號：112111219
 ><br />
->姓名：王小明
+>姓名：陳恩偉
 >
 
 本份文件包含以下主題：(至少需下面兩項，若是有多者可以自行新增)
@@ -10,45 +10,21 @@
 
 ## 說明程式與內容
 
-開始寫說明，該說明需說明想法，
-並於之後再對上述想法的每一部分將程式進一步進行展現，
-若需引用程式區則使用下面方法，
-若為.cs檔內程式除了於敘述中需註明檔案名稱外，
-還需使用語法` ```語言種類 程式碼 ``` `，其中語言種類若是要用python則使用py，java則使用java，C/C++則使用cpp，
-下段程式碼為語言種類選擇csharp使用後結果：
-
-```csharp
-public void mt_getResult(){
-    ...
-}
-```
-
-若要於內文中標示部分網頁檔，則使用以下標籤` ```html 程式碼 ``` `，
-下段程式碼則為使用後結果：
-
-```html
-<%@ Page Language="C#" AutoEventWireup="true" ...>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" ...>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
-
-請在撰寫"說明程式與內容"該塊內容，請把原該塊內上述敘述刪除，該塊上述內容只是用來指引該怎麼撰寫內容。
-
 1. 
 
 Ans: 
+<img width="926" height="598" alt="image" src="https://github.com/user-attachments/assets/679bd561-fa60-4822-ad5c-987980e7b508" />
+1.找個資料表複製
 
+<img width="533" height="233" alt="image" src="https://github.com/user-attachments/assets/56ea6409-def7-4120-b898-abdc98ebf520" />
+2.點擊輸入資料
+
+<img width="1323" height="993" alt="image" src="https://github.com/user-attachments/assets/d59e8e09-68e6-4168-b1ce-84742db4c74b" />
+3.貼上後載入(不要點選復原標頭。因為預設會
+將第一列設為標頭。若點擊後，
+則不會將第一列設為標頭且會出
+現「資料行1」、「資料行2」...
+作為標頭。)
+
+<img width="654" height="275" alt="image" src="https://github.com/user-attachments/assets/8b551def-61bf-444d-9d9b-c92912996536" />
+4.點選常用、查詢中的轉換資料
